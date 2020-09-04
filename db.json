@@ -1,0 +1,20 @@
+{
+  "product" : [
+    {
+      "name": "coffe mocha",
+      "stock": 100
+    },
+    {
+      "name": "cappucino",
+      "stock": 50
+    },
+    {
+      "name": "chocolate",
+      "stock": 40
+    },
+    {
+      "name": "tea",
+      "stock": 30
+    }
+  ]
+}

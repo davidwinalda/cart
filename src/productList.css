@@ -1,0 +1,26 @@
+.totalCart {
+  display: flex;
+  justify-content: flex-end;
+  padding: 50px;
+}
+
+.wrapperCard {
+  text-align: center;
+}
+
+.wrapperCard img{
+  width: 200px;
+}
+
+.cardAction {
+  display: flex;
+  justify-content: center;
+}
+
+.cardAction button {
+  padding: 5px 50px;
+}
+
+.cardAction p {
+  padding: 0 10px;
+}
